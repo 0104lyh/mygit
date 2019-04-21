@@ -27,7 +27,7 @@ struct TNode{
     BinTree Right;
 };
 
-BinTree CreatBinTree(); /* 实现细节忽略 */
+BinTree CreatBinTree(); 
 int GetHeight( BinTree BT );
 
 int main()
